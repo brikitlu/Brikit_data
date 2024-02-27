@@ -1,8 +1,6 @@
-# Brikit_data
-This is Brikit's data processing tool.
 <div id=top align="center">
 
-![Brikit_data_process](Brikit_logo.jpg)
+#####![Brikit_data_process](Brikit_logo.jpg)
 
 </div>
 

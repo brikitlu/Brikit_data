@@ -1,0 +1,7 @@
+path: "data/input_data/"  
+data_files: "./language_distribution_data.jsonl"  
+split: "train"  
+ache_dir: "./cache"  
+output: "data/output_data/dedup_out"  
+column: "text"  
+batch_size: 10000 

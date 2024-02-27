@@ -1,0 +1,4 @@
+model_path: data/models/FastText/lid.176.bin
+input_path: ./data/input_data/cleared1.jsonl
+output_path: ./data/output_data/cleared1.jsonl
+number: 4
