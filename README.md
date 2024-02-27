@@ -1,6 +1,6 @@
 <div id=top align="center">
 
-#####![Brikit_data_process](Brikit_logo.jpg)
+![Brikit_data_process](Brikit_logo.jpg)
 
 </div>
 
